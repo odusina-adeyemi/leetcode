@@ -1,6 +1,5 @@
 .idea/
 .DS_Store
-.vscode
 .temp
 .vitepress
 .cache
@@ -10,3 +9,7 @@ __pycache__
 /solution/result.json
 /solution/__pycache__
 /solution/.env
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
